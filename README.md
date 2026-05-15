@@ -1,4 +1,4 @@
-# telco customer churn prediction
+# Telco customer churn prediction
 
 This machine learning project predicts whether a customer will churn or not.
 
