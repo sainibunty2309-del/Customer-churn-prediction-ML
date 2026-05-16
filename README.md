@@ -27,22 +27,22 @@ Write your best accuracy here
 ## Project Visualization
 
 ### Confusion matrix
-![Confusion matrix](screenshots/confusion_matrix.png)
+![Confusion matrix](screenshots/confusion%20matrix.png)
 
 ### Accuracy comparision
-![Accuracy comparision](screenshots/model_accuracy_comparision.png)
+![Accuracy comparision](screenshots/model%20accuracy%20comparision.png)
 
 ### Correlation heatmap
-![Heatmap](screenshots/correlation_heatmap.png)
+![Heatmap](screenshots/correlation%20heatmap.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/Important_Features.png)
+![Feature Importance](screenshots/Important%20Features.png)
 
 ### Monthly Charge Distribution
-![Monthly Charges](screenshots/monthly_charge_distribution.png)
+![Monthly Charges](screenshots/monthly%20charge%20distribution.png)
 
 ### Contract Type vs Churn
-![Contract vs Churn](screenshots/contract_type_vs_churn.png)
+![Contract vs Churn](screenshots/contract%20type%20vs%20churn.png)
 
 ## Key Insights
 - Customers with month-to-month contracts are more likely to churn.
