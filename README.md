@@ -24,6 +24,26 @@ IBM Telco Customer Churn Dataset
 ## Best Accuracy
 Write your best accuracy here
 
+## Project Visualization
+
+### Confusion matrix
+![Confusion matrix](screenshots/confusion_matrix.png)
+
+### Accuracy comparision
+![Accuracy comparision](screenshots/model_accuracy_comparision.png)
+
+### Correlation heatmap
+![Heatmap](screenshots/correlation_heatmap.png)
+
+### Feature Importance
+![Feature Importance](screenshots/Important_Features.png)
+
+### Monthly Charge Distribution
+![Monthly Charges](screenshots/monthly_charge_distribution.png)
+
+### Contract Type vs Churn
+![Contract vs Churn](screenshots/contract_type_vs_churn.png)
+
 ## Key Insights
 - Customers with month-to-month contracts are more likely to churn.
 - Customers with higher monthly charges have higher churn probability.
