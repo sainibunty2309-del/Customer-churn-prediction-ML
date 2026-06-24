@@ -50,6 +50,17 @@ Write your best accuracy here
 - Long-term customers are less likely to leave.
 - Contract type and tenure were among the most important features.
 
+## Model Deployment
+
+The trained Random Forest model has been deployed as an interactive Streamlit web application. The deployment allows users to enter customer information through a user-friendly interface and receive real-time churn predictions.
+
+Deployment features include:
+
+- Interactive web interface built with Streamlit.
+- Automatic loading of the trained model (churn_model.pkl).
+- Automatic preprocessing using saved label encoders (label_encoders.pkl).
+- Instant prediction of whether a customer is likely to churn  or SSstay.
+- Easy deployment on platforms such as Streamlit Community Cloud or local environments.
 # Conclusion
 
 After comparing multiple machine learning models, 
